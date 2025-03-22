@@ -4,7 +4,7 @@ import Weather from "./components/Weather"
 export default function App() {
   return (
     <>
-    <div className="text-3xl min-h-[100vh] font-medium grid bg-[#e2d4ff] ">
+    <div className="text-3xl min-h-[100vh] font-sans grid bg-[#e2d4ff] ">
        <Weather/>
 
     </div>
